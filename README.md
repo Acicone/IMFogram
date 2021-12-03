@@ -1,7 +1,7 @@
 # IMFogram
 Time-frequency representation based on Intrinsic Mode Functions (IMFs)
 
-Please refer to "IMFogram_Example.m" for an example on how to use the code.
+Please refer to "IMFogram_Example_v1.m" for an example on how to use the code.
 The Example requires FIF algorithm which is available at https://github.com/Acicone/FIF
 
 Please cite our work:
